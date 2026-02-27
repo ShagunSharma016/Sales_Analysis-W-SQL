@@ -217,3 +217,7 @@ GROUP BY
 
 - **Database:** PostgreSQL
 - **Analysis Tools:** PostgreSQL, Dbeaver
+
+---   
+**👤 Author:** Shagun Sharma      
+**💼 Role:** Data Analyst  
